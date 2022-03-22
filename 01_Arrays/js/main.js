@@ -1,8 +1,15 @@
 'use strict';
 // ============================================================================
 // Creëer een nieuwe array die alle getallen uit origineel bevat
-// maar met 5 verhoogd.
+// die groter zijn dan 3.
 const origineel = [1, 2, 3, 4];
+let groterDan3 = undefined;
+
+// Creëer een nieuwe array die alle even getallen uit origineel bevat
+let evenGetallen = undefined;
+
+// Creëer een nieuwe array die alle getallen uit origineel bevat
+// maar met 5 verhoogd.
 let allesPlusVijf = undefined;
 console.log(allesPlusVijf);
 
